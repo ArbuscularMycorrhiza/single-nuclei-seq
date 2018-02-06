@@ -1,4 +1,11 @@
-# Kraken analysis on nanopore sequences and Illumina assemblies
+## Results
+```
+/proj/b2017181/nobackup/merce/kraken/nanopore
+/proj/b2017181/nobackup/merce/kraken/assembly
+```
+
+
+# Kraken analysis on nanopore seq and Illumina assemblies
 
 ### Database
 ```
